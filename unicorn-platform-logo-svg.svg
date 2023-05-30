@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1139 1139" width="1139" height="1139">
+	<title>unicorn-platform-logo-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="570.6" y1="910.9" x2="570.6" y2="271.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ffffff"/>
+			<stop offset="1" stop-color="#ffffff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #1aa4a6 } 
+		.s1 { fill: url(#g1);stroke: #ffffff;stroke-width: 101 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 170c0-93.9 76.1-170 170-170h799c93.9 0 170 76.1 170 170v799c0 93.9-76.1 170-170 170h-799c-93.9 0-170-76.1-170-170z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m579.1 271.2c-132.4-4.7-243.6 98.8-248.4 231.3q-4.7 132.5 225.5 408.4 249.5-258.8 254.3-391.2c4.6-132.5-98.9-243.7-231.4-248.5z"/>
+</svg>
